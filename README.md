@@ -47,7 +47,7 @@ When hyperfine interaction with a neighbouring <sup>13</sup>C nucleus or any oth
 ![alt text](https://github.com/neelpar/NV-Center/blob/master/spin1-spinhalf-reso.png?raw=true)
 ![alt text](https://github.com/neelpar/NV-Center/blob/master/spin1-spinhalf.png?raw=true)
 
-Following are the set of graphs for when the NV-Center is interacting with a spin 1 nucleus. The resonance graph has 18 theoretically predicted frequencies which are much separated compared to the spin half case. For the F vs B graph m<sub>s</sub>=0 level's energy has been averaged over its 3 hyperfine energies and the thus the graph shows 6 transition lines. There are 3 avoided crossings. At B=0, there exist 6 different transition frequencies (a bit anti-intuitive).
+Following are the set of graphs for when the NV-Center is interacting with a spin 1 nucleus. The resonance graph has 18 theoretically predicted frequencies which are much separated compared to the spin half case. For the F vs B graph m<sub>s</sub>=0 level's energy has been averaged over its 3 hyperfine energies and the thus the graph shows 6 transition lines. There are 3 avoided crossings. At B=0, there exist 6 different transition frequencies.
 ![alt text](https://github.com/neelpar/NV-Center/blob/master/spin1-spin1-reso.png?raw=true)
 ![alt text](https://github.com/neelpar/NV-Center/blob/master/spin1-spin1.png?raw=true)
 
@@ -58,7 +58,7 @@ In the Excited State the value of the zero field splitting energy is lower and s
 ![alt text](https://github.com/neelpar/NV-Center/blob/master/excited_state.png?raw=true)
 
 
-#### Magnetic Field Orientation (Need to look into this, graphs are not final and explanation maybe wrong)
+#### Magnetic Field Orientation (Graphs are not final)
 The graph below shows a comparison between the transition frequencies when the magnetic field is parallel and when its perpendicular to the NV axis. For the perpendicular case at low magnetic fields, a parabolic increase is observed. At high magnetic fields the effect of D is negligible and all the lines are expected to become degenerate in the limit that B tends to infinity or D tends to zero. But this is not obsereved for some reason.
 ![alt text](https://github.com/neelpar/NV-Center/blob/master/field_direction.png?raw=true)
 The graph below shows how the spins rotate when magnetic field in the perpendicular direction increases. Again something strange is observed. The graphs show that m<sub>s</sub>=0 level at B=0 tends to m<sub>s</sub>=-1 level as B tends to infinity. This means that the state which has 0 spin projection on the Z axis at B=0 has a spin projectino of -1 at B = infi.
